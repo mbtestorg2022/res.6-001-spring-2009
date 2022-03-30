@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-001-continuum-electromechanics-spring-2009/28bde5f91af7c3629179d9992331efad_chap10_sec_811.pdf
 file_type: application/pdf
+parent_uid: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
 resourcetype: Document
 title: chap10_sec_811.pdf
 uid: 28bde5f9-1af7-c362-9179-d9992331efad

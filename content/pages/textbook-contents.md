@@ -35,10 +35,10 @@ ACTUAL SIZE FILES
 **Front-End Matter**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap01_100.pdf))
+({{% resource_link "a8c9f5a5-1056-3ff7-5685-86de19311d66" "PDF - 1.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap01_811.pdf))
+({{% resource_link "c990eddf-9ad6-444f-1be1-2eb1134ff261" "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,18 +65,18 @@ Index, pp. I.1-I.14
 {{< tdopen >}}
 
 
-Front matter ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/front_100.pdf))
+Front matter ({{% resource_link "653432d7-8e0d-e05f-4e7d-c3389b198ab8" "PDF" %}})
 
-End matter ([PDF - 1.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/end_100.pdf))
+End matter ({{% resource_link "0763fc9e-37b2-55cd-bf7f-4c46a232c1ac" "PDF - 1.2MB" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Front matter ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/front_811.pdf))
+Front matter ({{% resource_link "d1451d94-03bc-6478-93f8-96c03b270813" "PDF" %}})
 
-End matter ([PDF - 1.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/end_811.pdf))
+End matter ({{% resource_link "02d24cd3-d310-56ba-14fd-55136ca2a467" "PDF - 1.2MB" %}})
 
 
 {{< tdclose >}}
@@ -87,10 +87,10 @@ End matter ([PDF - 1.2MB](/resources/res-6-001-continuum-electromechanics-spring
 **Chapter 1: Introduction to Continuum Electromechanics, pp. 1.1-1.6**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap01_100.pdf))
+({{% resource_link "a8c9f5a5-1056-3ff7-5685-86de19311d66" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap01_811.pdf))
+({{% resource_link "c990eddf-9ad6-444f-1be1-2eb1134ff261" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,10 +116,10 @@ End matter ([PDF - 1.2MB](/resources/res-6-001-continuum-electromechanics-spring
 **Chapter 2: Electrodynamic Laws, Approximations and Relations, pp. 2.1-2.54**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.5MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap02_100.pdf))
+({{% resource_link "f8ee0110-50f6-8e80-a97b-4267dd26a92a" "PDF - 3.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.5MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap02_811.pdf))
+({{% resource_link "af7edef1-5b2f-1704-82f5-d34022e00407" "PDF - 3.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,9 +150,9 @@ Problems, p. 2.47
 {{< tdopen >}}
 
 
-Sections 2.1-2.20 ([PDF - 3.1MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap02_sec_100.pdf))
+Sections 2.1-2.20 ({{% resource_link "35fce42d-897b-1e01-cb57-c839223d017b" "PDF - 3.1MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap02_prb_100.pdf))
+Problems ({{% resource_link "ae2dc8c7-db06-cb1a-06af-3e201f7959e1" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -160,9 +160,9 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 
 
 Sections 2.1-2.20  
-([PDF - 3.1MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap02_sec_811.pdf))
+({{% resource_link "f2edcbcc-f535-1b44-d97a-831c42ea4087" "PDF - 3.1MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap02_prb_811.pdf))
+Problems ({{% resource_link "fb2b86be-bf32-4994-c7d4-752810547181" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -173,10 +173,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 3: Electromagnetic Forces, Force Densities and Stress Tensors, pp. 3.1-3.26**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap03_100.pdf))
+({{% resource_link "880913e5-3f7d-6132-5f5a-46866ccab728" "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap03_811.pdf))
+({{% resource_link "33a8622f-2d9f-bf59-6d34-3459e42060ec" "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,9 +199,9 @@ Problems, p. 3.23
 {{< tdopen >}}
 
 
-Sections 3.1-3.12 ([PDF - 1.6MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap03_sec_100.pdf))
+Sections 3.1-3.12 ({{% resource_link "53d77762-d7e0-65cf-1ae3-62fc89ea95a6" "PDF - 1.6MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap03_prb_100.pdf))
+Problems ({{% resource_link "18501542-dea0-ec11-fcf1-ccfba31ded0a" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -209,9 +209,9 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 
 
 Sections 3.1-3.12  
-([PDF - 1.6MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap03_sec_811.pdf))
+({{% resource_link "6521a8cf-9dd1-d6f2-9cc0-a253578b6672" "PDF - 1.6MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap03_prb_811.pdf))
+Problems ({{% resource_link "9fdca811-a9eb-3fce-87db-368a4419e83d" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -222,10 +222,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 4: Electromechanical Kinematics: Energy-Conservation Models and Processes, pp. 4.1-4.60**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.8MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap04_100.pdf))
+({{% resource_link "78f6e013-f885-35ac-6889-aa58699306e3" "PDF - 4.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.5MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap04_811.pdf))
+({{% resource_link "0862a5f2-53f0-186f-8eb8-9369ebf9d65c" "PDF - 4.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,18 +251,18 @@ Problems, p. 4.57
 {{< tdopen >}}
 
 
-Sections 4.1-4.15 ([PDF - 4.6MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap04_sec_100.pdf))
+Sections 4.1-4.15 ({{% resource_link "9c5911e3-919e-71da-fefa-ce9b63ce1df1" "PDF - 4.6MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap04_prb_100.pdf))
+Problems ({{% resource_link "d2dc845f-8e58-79d3-b5f7-717930ade956" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 4.1-4.15 ([PDF - 4.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap04_sec_811.pdf))
+Sections 4.1-4.15 ({{% resource_link "7461cf82-5909-35ce-c245-1bf121f243e8" "PDF - 4.2MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap04_prb_811.pdf))
+Problems ({{% resource_link "3ebf083c-fca8-22a7-3422-af4ade7a91a4" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -273,10 +273,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 5: Charge Migration, Convection and Relaxation, pp. 5.1-5.77**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.1MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap05_100.pdf))
+({{% resource_link "00d2f201-be42-74d2-503e-85284440dbb9" "PDF - 5.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.1MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap05_811.pdf))
+({{% resource_link "eabe3677-bb3b-7ba5-245c-3ffae532dc1d" "PDF - 5.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,18 +306,18 @@ Problems, p. 5.71
 {{< tdopen >}}
 
 
-Sections 5.1-5.17 ([PDF - 4.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap05_sec_100.pdf))
+Sections 5.1-5.17 ({{% resource_link "5ee1a49d-cc58-e3c1-8f3b-adf1fe299ae2" "PDF - 4.7MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap05_prb_100.pdf))
+Problems ({{% resource_link "747a090b-6015-66c5-7713-cd93d85dcd26" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 5.1-5.17 ([PDF - 4.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap05_sec_811.pdf))
+Sections 5.1-5.17 ({{% resource_link "bccce296-a249-1e27-878b-a772e179e1be" "PDF - 4.7MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap05_prb_811.pdf))
+Problems ({{% resource_link "9397a979-2a2d-12b9-c055-55cfcea9316a" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -328,10 +328,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 6: Magnetic Diffusion and Induction Interactions, pp. 6.1-6.39**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap06_100.pdf))
+({{% resource_link "befbf24d-d81f-5150-b4ce-d3c70906655c" "PDF - 2.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap06_811.pdf))
+({{% resource_link "5af89c39-624a-d135-c6d9-c8d86b0b1fb0" "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,18 +353,18 @@ Problems, p. 6.35
 {{< tdopen >}}
 
 
-Sections 6.1-6.11 ([PDF - 2.5MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap06_sec_100.pdf))
+Sections 6.1-6.11 ({{% resource_link "227d82e4-3b41-2bec-48b0-49a62da02b55" "PDF - 2.5MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap06_prb_100.pdf))
+Problems ({{% resource_link "835af600-3ef3-a211-adb9-ef7aeb3cb9b5" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 6.1-6.11 ([PDF - 2.5MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap06_sec_811.pdf))
+Sections 6.1-6.11 ({{% resource_link "531d2a87-9a6a-567c-ed87-f1335fc33a5c" "PDF - 2.5MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap06_prb_811.pdf))
+Problems ({{% resource_link "6b83beaa-1ff2-bfe4-3b41-4b38bd33509b" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -375,10 +375,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 7: Laws, Approximations and Relations of Fluid Mechanics, pp. 7.1-7.50**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap07_100.pdf))
+({{% resource_link "2bc7a67b-ae39-2a5d-8080-aae5ca11adee" "PDF - 3.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap07_811.pdf))
+({{% resource_link "932df90c-37a4-65c4-d2d2-db4c31a38dc0" "PDF - 3.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -413,18 +413,18 @@ Problems, p. 7.43
 {{< tdopen >}}
 
 
-Sections 7.1-7.24 ([PDF - 2.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap07_sec_100.pdf))
+Sections 7.1-7.24 ({{% resource_link "f31a61db-4148-754b-bb1f-88b748262f26" "PDF - 2.7MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap07_prb_100.pdf))
+Problems ({{% resource_link "90a19288-d122-9c94-26a7-7a36ae584857" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 7.1-7.24 ([PDF - 2.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap07_sec_811.pdf))
+Sections 7.1-7.24 ({{% resource_link "2ca70b18-c6b9-f92c-ee35-64312668566e" "PDF - 2.7MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap07_prb_811.pdf))
+Problems ({{% resource_link "c9245b2c-f7dd-fe82-0acf-6dcdfbd23db3" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -435,10 +435,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 8: Statics and Dynamics of Systems Having a Static Equilibrium, pp. 8.1-8.78**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 6.0MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap08_100.pdf))
+({{% resource_link "0708217e-15b2-390c-5b5b-49d480d7cdd6" "PDF - 6.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.8MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap08_811.pdf))
+({{% resource_link "b3fb43b9-e5eb-c28b-12df-c9757c91755b" "PDF - 5.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -475,18 +475,18 @@ Problems, p. 8.69
 {{< tdopen >}}
 
 
-Sections 8.1-8.18 ([PDF - 5.4MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap08_sec_100.pdf))
+Sections 8.1-8.18 ({{% resource_link "65b16012-b2c9-8cff-f305-9e85fb77ab29" "PDF - 5.4MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap08_prb_100.pdf))
+Problems ({{% resource_link "75d52074-0e23-edb3-1955-94d3feacf1ca" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 8.1-8.18 ([PDF - 5.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap08_sec_811.pdf))
+Sections 8.1-8.18 ({{% resource_link "c9d76a3c-97a6-1cc7-9c2d-53b41a8df101" "PDF - 5.2MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap08_prb_811.pdf))
+Problems ({{% resource_link "16ae4ee7-99c4-6586-036a-c9f64a210ef8" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -497,10 +497,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 9: Electromechanical Flows, pp. 9.1-9.64**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap09_100.pdf))
+({{% resource_link "9d138e9a-a79d-545a-d5fc-79e0076c6984" "PDF - 4.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.6MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap09_811.pdf))
+({{% resource_link "1da471c3-3abb-e185-fa10-b7aceb2b8b5e" "PDF - 4.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -535,18 +535,18 @@ Problems, p. 9.57
 {{< tdopen >}}
 
 
-Sections 9.1-9.19 ([PDF - 4.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap09_sec_100.pdf))
+Sections 9.1-9.19 ({{% resource_link "e61cb136-15ea-5847-a53b-e1f08368d83e" "PDF - 4.2MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap09_prb_100.pdf))
+Problems ({{% resource_link "30d46e07-aaa5-6047-4e21-cedece4a4e22" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 9.1-9.19 ([PDF - 4.1MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap09_sec_811.pdf))
+Sections 9.1-9.19 ({{% resource_link "b3264112-b65a-3fae-21d2-cb9aeb696628" "PDF - 4.1MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap09_prb_811.pdf))
+Problems ({{% resource_link "ec2a00f8-c21d-1a66-81bc-191dfdb2cdad" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -557,10 +557,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 10: Electromechanics with Thermal and Molecular Diffusion, pp. 10.1-10.41**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap10_100.pdf))
+({{% resource_link "4e656c6a-f6de-1643-dffe-830b626d6fa8" "PDF - 2.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap10_811.pdf))
+({{% resource_link "72f61b73-332d-95f0-ad64-41128e90764d" "PDF - 2.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -587,18 +587,18 @@ Problems, p. 10.37
 {{< tdopen >}}
 
 
-Sections 10.1-10.12 ([PDF - 2.4MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap10_sec_100.pdf))
+Sections 10.1-10.12 ({{% resource_link "e29cff9a-9619-4465-bd56-818887c40abb" "PDF - 2.4MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap10_prb_100.pdf))
+Problems ({{% resource_link "3453e37f-5bb2-643a-e5f8-2d3dac0e42bc" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 10.1-10.12 ([PDF - 2.4MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap10_sec_811.pdf))
+Sections 10.1-10.12 ({{% resource_link "28bde5f9-1af7-c362-9179-d9992331efad" "PDF - 2.4MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap10_prb_811.pdf))
+Problems ({{% resource_link "70f5d644-f0e3-9901-58f8-5de3558790e5" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -609,10 +609,10 @@ Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/text
 **Chapter 11: Streaming Interactions, 11.1-11.79**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 6.6MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap11_100.pdf))
+({{% resource_link "1e812c8f-a5fa-d3a0-92a8-6c08fe1c75e3" "PDF - 6.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.2MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap11_811.pdf))
+({{% resource_link "a3ac014c-8a0c-fa9b-09eb-fc357ae60a04" "PDF - 5.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -646,18 +646,18 @@ Problems, p. 11.71
 {{< tdopen >}}
 
 
-Sections 11.1-11.17 ([PDF - 6.0MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap11_sec_100.pdf))
+Sections 11.1-11.17 ({{% resource_link "2ef8da07-561f-f614-144d-4ca33ea3760b" "PDF - 6.0MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap11_prb_100.pdf))
+Problems ({{% resource_link "4b15fb5a-c030-f624-19dd-42ce81a34876" "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Sections 11.1-11.17 ([PDF - 4.6MB](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap11_sec_811.pdf))
+Sections 11.1-11.17 ({{% resource_link "33c831b8-3334-8096-8b09-80351f8138c2" "PDF - 4.6MB" %}})
 
-Problems ([PDF](/resources/res-6-001-continuum-electromechanics-spring-2009/textbook-contents/chap11_prb_811.pdf))
+Problems ({{% resource_link "2fa567eb-ea00-a447-faff-28295d073cd0" "PDF" %}})
 
 
 {{< tdclose >}}
